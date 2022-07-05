@@ -11,13 +11,13 @@ function App() {
         <Typography variant="h2" align="center">
           My Vacations
         </Typography>
-        <img src={hawaii} alt="my-vacations" height="100"></img>
+        <img src={hawaii} alt="my-vacations" height="60"></img>
       </AppBar>
       <Grow in>
         <Container>
           <Grid
             container
-            justify="space-between"
+            justifyContent="space-between"
             alignItems="stretch"
             spacing={4}
           >
