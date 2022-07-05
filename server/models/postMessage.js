@@ -17,3 +17,5 @@ const postShema = mongoose.Schema({
 });
 
 const PostMessage = mongoose.model("PostMessage", postShema);
+
+export default PostMessage
