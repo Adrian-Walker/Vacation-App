@@ -1,3 +1,3 @@
 import axios from "axios";
 
-const url = "http://localhost:3000/posts";
+const url = "http://localhost:500/posts";
